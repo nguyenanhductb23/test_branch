@@ -111,7 +111,7 @@
 ## 5. Các giao diện
 
 ###### Home
-!(https://live.staticflickr.com/65535/52559880472_3ebfb679bd_n.jpg)
+![](https://live.staticflickr.com/65535/52559880472_3ebfb679bd_n.jpg)
 ######
 ######
 ######
