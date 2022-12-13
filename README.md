@@ -30,7 +30,7 @@
 ## 4. Modules
 
 
-### **Account**
+## **Account:**
 
 ● register
 
@@ -121,6 +121,9 @@
 #### Register
 <img src="https://live.staticflickr.com/65535/52560861553_e672bf3dcb_c.jpg">
 
+#### Forgot Password
+<img src="https://live.staticflickr.com/65535/52561647208_8877765263_z.jpg">
+
 #### Account
 
 ##### Profile
@@ -134,6 +137,9 @@
 
 #### Book Details
 <img src="https://live.staticflickr.com/65535/52560611634_8143fcbd9e_w.jpg">
+
+#### Comment
+<img src="https://live.staticflickr.com/65535/52561647178_c6fa0e45f3_z.jpg">
 
 #### Cart
 <img src="https://live.staticflickr.com/65535/52559864297_38fac96346_z.jpg">
