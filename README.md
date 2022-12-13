@@ -110,12 +110,21 @@
 
 ## 5. Các giao diện
 
-###### Home
+#### Home
 <img src="https://live.staticflickr.com/65535/52560352941_f9ac082971_n.jpg">
 <img src="https://live.staticflickr.com/65535/52560897838_9916438444_n.jpg">
 <img src="https://live.staticflickr.com/65535/52560647659_6b357aa2e0_n.jpg">
-######
-######
+#### Login
+<img src="https://live.staticflickr.com/65535/52560861533_4d74fe6ac0.jpg">
+#### Register
+<img src="https://live.staticflickr.com/65535/52560861553_e672bf3dcb_c.jpg">
+####
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+
 ######
 ######
 ######
