@@ -134,7 +134,6 @@
 
 #### Book Details
 <img src="https://live.staticflickr.com/65535/52560611634_8143fcbd9e_w.jpg">
-<img src="">
 
 #### Cart
 <img src="https://live.staticflickr.com/65535/52559864297_38fac96346_z.jpg">
@@ -143,7 +142,7 @@
 <img src="https://live.staticflickr.com/65535/52560316036_75fa19debd.jpg">
 
 #### Orders History
-<img src="https://live.staticflickr.com/65535/52560755784_17341e70aa_n.jpg">
+<img src="https://live.staticflickr.com/65535/52561009378_a9c3879df3.jpg">
 
 #### About Us
 <img src="https://live.staticflickr.com/65535/52560457691_903338d138_n.jpg">
